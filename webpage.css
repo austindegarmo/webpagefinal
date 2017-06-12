@@ -59,7 +59,7 @@ p {
 
 h1 {
 	color:grey;
-	width: %;
+	
 	margin:1%;
 	background-color: white;
 }
@@ -70,8 +70,8 @@ aside {
 	line-height: 100px;
 	background-color: white;
 	width:50%;
-	height: 310px;
-	margin: 20px;
+	height: 300px;
+	margin: 1%;
 	float: right;
 
 }
